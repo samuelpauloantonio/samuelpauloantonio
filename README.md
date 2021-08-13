@@ -1,6 +1,6 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Samuel Paulo António</h1>
 <h3 align="center">A Web Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelpauloantonio" alt="maykbrito" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelpauloantonio" alt="samuelpauloantonio" /> </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=samuelpauloantonio&show_icons=true&include_all_commits=true&count_private=true" alt="samuelpauloantonio"/> 
 
@@ -8,7 +8,7 @@
 <br />
 
 - 🔭 I’m currently working on [CARUPI](https://github.com/carupi) as Backend Developer
-
+- 
 
 - 📫 How to reach me **samueldev1997spagmail.com**
 
