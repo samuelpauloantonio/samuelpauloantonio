@@ -3,14 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelpauloantonio" alt="samuelpauloantonio" /> </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=samuelpauloantonio&show_icons=true&include_all_commits=true&count_private=true" alt="samuelpauloantonio"/> 
-
-<br />
 <br />
 
 - 🔭 I’m currently working on [CARUPI](https://github.com/carupi) as Backend Developer
-- 
 
-- 📫 How to reach me **samueldev1997spagmail.com**
+- 📫 How to reach me **samueldev1997@gmail.com**
 
 - ⚡ Fun fact **Oneye 😜**
 
