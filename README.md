@@ -7,9 +7,39 @@
 
 
 
-- 📫 How to reach me **samueldev1997@gmail.com**
+- 📫 How to reach me **https://samsoftsync.com**
 
-- ⚡ Fun fact **Oneye 😜**
+- **About me**
+<p align="left">
+Passionate about programming, I am the founder of Samsoft Sync, a software development company specialized in customized solutions. With international presence, we operate in the United States (Wyoming) and Angola, creating effective and scalable solutions.
+
+With over 10 years of professional experience, I began working as a Software Engineer only 5 years ago, in 2018. I am a Full Stack developer and have since primarily worked as a Backend Engineer. Below, I present some of the technologies and concepts I am knowledgeable in.
+
+- Node.js
+- Typescript/Javascript
+- React JS
+- Next JS
+- Nest.js
+- Jest and Supertest
+- Relational and Non-relational databases
+- Amazon Web Services
+- Docker / Docker compose
+- DevOps/GitHub
+- Version control with Git
+- Jira/Trello
+- Firebase
+- Keycloak
+- RabbitMQ
+- Apache Kafka
+- TypeORM
+- Mongoose
+- Clean Architecture
+- Clean Code
+- S.O.L.I.D
+- TDD/BDD
+- Domain Driven Design
+- Software Architecture
+- Microservices/Event-Driven Architecture </p>
 
 <p align="left">
 <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="TypeScript" width="20" height="20"/>
