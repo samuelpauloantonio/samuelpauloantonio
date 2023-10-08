@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Samuel Paulo António</h1>
-<h3 align="center">A Web Developer</h3>
+<h3 align="center">Software engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelpauloantonio" alt="samuelpauloantonio" /> </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=samuelpauloantonio&show_icons=true&include_all_commits=true&count_private=true" alt="samuelpauloantonio"/> 
